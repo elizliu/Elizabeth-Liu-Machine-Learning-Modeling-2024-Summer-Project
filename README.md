@@ -1,4 +1,4 @@
-# Machine Learning Experiments
+# Machine Learning Demos
 
 A collection of educational Jupyter notebooks exploring Gaussian Processes, Bayesian Optimization, and kernel methods.  
 Each notebook implements algorithms from scratch and visualizes predictions, uncertainties, and decision boundaries.
